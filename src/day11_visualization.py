@@ -25,7 +25,7 @@ plt.plot([1,2,3],[1,4,9])
 plt.title("Line Plot")
 
 plt.subplot(1,2,2)
-plt.plot(['A','B','C'],[3,7,5])
+plt.bar(['A','B','C'],[3,7,5])
 plt.title("Bar Chart")
 plt.show()
 
